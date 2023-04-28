@@ -72,8 +72,6 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```
-## Result :
-```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -91,17 +89,18 @@ int main(void)
   }
  }
  ```
-```
 
 
 
-## Output screen shots of proteus  :![WhatsApp Image 2023-04-28 at 14 19 06](https://user-images.githubusercontent.com/122000018/235104078-05fc7db0-d6c0-4d80-9b9c-72ea9d040a32.jpg)
+## Output screen shots of proteus  :![WhatsApp Image 2023-04-28 at 14 19 08](https://user-images.githubusercontent.com/122000018/235106666-0bfb5123-0bbe-4f7e-b6dd-606bb7a8336f.jpg)
 
 
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
+![WhatsApp Image 2023-04-28 at 14 18 47](https://user-images.githubusercontent.com/122000018/235106594-a55e3a93-1b19-4b91-b226-785a8dfc2b8a.jpg)
+
  
  
  
