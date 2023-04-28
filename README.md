@@ -102,7 +102,8 @@ When Switch is in OFF state:
 
 When Switch is in ON state:
 
-![PMC XP3 ON](https://user-images.githubusercontent.com/118707521/235220690-0a28c3c6-cabb-4c87-891c-276fa9d64e81.jpg)
+
+![PMC XP3 ON](https://user-images.githubusercontent.com/118707521/235221742-c0b0c12a-6a84-4ba9-a7b0-d8ea297a1ac1.jpg)
 
 
 
