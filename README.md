@@ -97,16 +97,20 @@ Register no.:212222230047
 ## Output screen shots of proteus  :
 
 When Switch is in OFF state:
+![pmc xp3 off](https://user-images.githubusercontent.com/118707521/235220677-0fdbe7f9-c4e5-4cde-91a8-080714c37766.jpg)
 
 
 When Switch is in ON state:
 
+![PMC XP3 ON](https://user-images.githubusercontent.com/118707521/235220690-0a28c3c6-cabb-4c87-891c-276fa9d64e81.jpg)
 
 
 
 
-## Proteus layout(Add pdf screen shot of circuit here)
- 
+## Proteus layout(Add pdf screen shot of circuit here) :
+
+ ![PMC XP3 SC](https://user-images.githubusercontent.com/118707521/235220749-911b6bd4-0575-4e92-929d-66397a10a578.jpg)
+
  
  
  
