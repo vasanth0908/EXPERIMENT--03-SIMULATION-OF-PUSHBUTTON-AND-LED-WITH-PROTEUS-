@@ -100,10 +100,10 @@ int main(void)
 	  		}
   }
 }
-```
+
 programmed by: K R HASHISH VIDYA SAGAR
 Register no.:212222230047
-
+```
 
 
 ## Output screen shots of proteus  :
