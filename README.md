@@ -71,7 +71,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 #include "stdio.h"
 #include "stdbool.h"
@@ -100,6 +100,7 @@ int main(void)
 	  		}
   }
 }
+```
 programmed by: K R HASHISH VIDYA SAGAR
 Register no.:212222230047
 
