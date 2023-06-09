@@ -86,9 +86,13 @@ int main(void)
 	  HAL_Delay(500);
 	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET);
 	  HAL_Delay(500);
+  	}
+ 	else
+	       {
+	  	HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
+	        }
+	     }
   }
- }
-
 programmed by: K R HASHISH VIDYA SAGAR
 Register no.:212222230047
 ```
