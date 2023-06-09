@@ -103,14 +103,16 @@ int main(void)
 
 
 
-## Output screen shots of proteus  :![WhatsApp Image 2023-04-28 at 14 19 08](https://user-images.githubusercontent.com/122000018/235106666-0bfb5123-0bbe-4f7e-b6dd-606bb7a8336f.jpg)
+## Output screen shots of proteus  :
+![1](https://github.com/vasanth0908/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/122000018/c4b8066b-ffb8-466a-8778-c43d22e73492)
+![2](https://github.com/vasanth0908/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/122000018/6c4a09af-2e30-4ee5-b84f-c1dd64cfa02d)
 
 
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
-![WhatsApp Image 2023-04-28 at 14 18 47](https://user-images.githubusercontent.com/122000018/235106594-a55e3a93-1b19-4b91-b226-785a8dfc2b8a.jpg)
+
 
  
  
